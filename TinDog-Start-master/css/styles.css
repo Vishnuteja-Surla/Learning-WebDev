@@ -23,6 +23,11 @@ body{
 
 .feature-img{
     size: 96px;
+    color: #ef8172;
+}
+
+.feature-img:hover{
+    color: #ff4c68;
 }
 
 .feature-text{
