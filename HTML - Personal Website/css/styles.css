@@ -1,0 +1,30 @@
+body
+{
+    background-color: #EAE7B1;
+    color: #3C6255;
+}
+
+h1
+{
+    color: #3C6255;
+}
+
+h3
+{
+    color: #3C6255;
+}
+
+img
+{
+    width: 250px;
+    height: auto;
+}
+
+hr
+{
+    border-style: none;
+    border-top-style: dotted;
+    width: 10%;
+    border-width: 7px;
+    border-color: #3C6255;
+}
